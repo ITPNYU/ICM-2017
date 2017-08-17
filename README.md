@@ -10,13 +10,13 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 * [office hours, scheduling, and contact info](https://github.com/ITPNYU/ICM-2016/blob/master/sections.md)
 
 ## Homework Wikis
-- Mimi, Tuesday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Mimi-Tuesday)
-- Shiffman, Thursday, 9:00-11:30: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Shiffman-Thursday-1)
-- Allison, Thursday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Allison-Thursday-1)
-- Shawn, Thursday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Shawn-Thursday)
-- Dano, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Dano-Thursday)
-- Allison, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Allison-Thursday-2)
-- Shiffman, Thursday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2016/wiki/Homework-Shiffman-Thursday-2)
+- Mimi, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Mimi-Tuesday)
+- Shiffman, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shiffman-Thursday-1)
+- Allison, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Thursday-1)
+- Shawn, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shawn-Thursday)
+- Dano, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Dano-Thursday)
+- Allison, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Thursday-2)
+- Shiffman, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shiffman-Thursday-2)
 
 ## Videos
 - [Kadenze course](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
@@ -177,15 +177,6 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 * [Optional quiz to test your knowledge](https://itpnyu.github.io/ICM-Quizzes/week5-objects-arrays/)
 
 
-
-### 6 -- Synthesis -- **All sections meet Friday, October 7, 11am-2pm!**
-- **Meet in the ITP Lounge**
-- **Bring your Arduino**
-- **Pizza will be served**
-- **[All details here](https://github.com/ITPNYU/ICM-2016/wiki/Synthesis)**
-- Serial input with a callback workshop
-- "Physical Variable"
-
 ### 7 -- DOM: events and callback function
 - Review events -- mousePressed, keyPressed
 * [All video tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
@@ -221,6 +212,8 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - Live capture
 - Movie playback
 - Video Assignment
+
+### PROJECT RUNWAY
 
 ### 10 -- Mobile
 - Workflow and process, get a previous sketch running on a device
