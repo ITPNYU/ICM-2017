@@ -10,13 +10,14 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 * [office hours, scheduling, and contact info](https://github.com/ITPNYU/ICM-2016/blob/master/sections.md)
 
 ## Homework Wikis
-- Mimi, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Mimi-Tuesday)
-- Shiffman, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shiffman-Thursday-1)
-- Allison, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Thursday-1)
-- Shawn, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shawn-Thursday)
-- Dano, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Dano-Thursday)
-- Allison, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Thursday-2)
-- Shiffman, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shiffman-Thursday-2)
+- Mimi, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Mimi-<DAY>)
+- Shiffman, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shiffman-<DAY>)
+- Allison, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-<DAY>)
+- Shawn, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shawn-<DAY>)
+- Dano, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Dano-<DAY>)
+- Allison, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-<DAY>)
+- Shiffman, Schedule TBD: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shiffman-<DAY>)
+
 
 ## Videos
 - [Kadenze course](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
