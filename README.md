@@ -178,7 +178,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 * [Optional quiz to test your knowledge](https://itpnyu.github.io/ICM-Quizzes/week5-objects-arrays/)
 
 
-### 7 -- DOM: events and callback function
+### 6 -- DOM: events and callback function
 - Review events -- mousePressed, keyPressed
 * [All video tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 - [Tutorial: Beyond the Canvas, using p5.dom](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
@@ -192,7 +192,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - `style()` -- low key intro to CSS
 - [CSS Reference](http://www.blooberry.com/indexdot/css/propindex/all.htm)
 
-### 8 -- Data
+### 7 -- Data
 * [All video tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
 - [Tutorial: loading external data with p5.js](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
 - [Tutorial: more about data and APIs](http://shiffman.net/a2z/data-apis/)
@@ -204,7 +204,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
   - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
   - [Sentencing Guideline From Surya](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/)
 
-### 9 -- Video and Sound
+### 8 -- Video and Sound
 * [Video tutorials on video](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
 * [Video tutorials on sound](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
 - [p5.sound reference](http://p5js.org/reference/#/libraries/p5.sound)
@@ -213,6 +213,11 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - Live capture
 - Movie playback
 - Video Assignment
+
+### 9 -- Extra Synthesis Workshop -- All sections meet Friday, October 27, 11am-2pm!
+* Meet in the ITP Lounge
+* Pizza will be served
+* Details TBA
 
 ### PROJECT RUNWAY
 
@@ -264,7 +269,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
   - [Processing](http://processing.org)
   - Open source
     - How do artists make and adapt tools for themselves and their communities, like Processing, p5.js, openFrameworks, etc?
-  - How do you  get involved with this?
+  - How do you get involved with this?
 
 ### 13 -- One on one speed user testing / feedback
 - This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.  User testing schedule will be provided on a wiki.
