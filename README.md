@@ -178,8 +178,9 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 * [Optional quiz to test your knowledge](https://itpnyu.github.io/ICM-Quizzes/week5-objects-arrays/)
 
 
-### 6 -- DOM: events and callback function
+### 6 -- Serial and DOM: events and callback function
 - Review events -- mousePressed, keyPressed
+- Review Serial, introduce callback
 * [All video tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 - [Tutorial: Beyond the Canvas, using p5.dom](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
 - [Tutorial: Intro to HTML/CSS basics](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS#css)
