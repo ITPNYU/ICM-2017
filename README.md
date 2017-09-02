@@ -7,7 +7,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - This year we are using [p5.js](http://www.p5js.org/), a JavaScript framework for creative coding.  Check out the [new web editor for p5.js](https://alpha.editor.p5js.org/).
 
 ## Section specific info
-* [office hours, scheduling, and contact info](https://github.com/ITPNYU/ICM-2016/blob/master/sections.md)
+* [office hours, scheduling, and contact info](https://github.com/ITPNYU/ICM-2017/blob/master/sections.md)
 
 ## Homework Wikis
 - Allison, Monday, 6:30-9:00: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Monday)
@@ -34,13 +34,13 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 
 ## Extra Help
 - [Research Resident Office Hours](http://itp.nyu.edu/residents/contact-the-residents/)
-- [Cassie Office Hours](https://github.com/ITPNYU/ICM-2016/wiki/Cassie-Office-Hours) -- (Cassie is the lead developer of the p5.js web editor so bring your bugs and questions about that!)
+- [Cassie Office Hours](https://github.com/ITPNYU/ICM-2017/wiki/Cassie-Office-Hours) -- (Cassie is the lead developer of the p5.js web editor so bring your bugs and questions about that!)
 - ICM Help Sessions:
 - Wednesdays 4-6pm in Room 15 w/ Craig & Kat
 - Fridays 1:30-2:30pm in Room 20 w/ Cici & Yining
 
 ## Inspirational Projects
-- [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2016/wiki/Inspiration)
+- [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2017/wiki/Inspiration)
 
 ## Resources
 - [p5.js reference](http://p5js.org/reference)
@@ -48,7 +48,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 * [p5.js tutorials](http://p5js.org/tutorials/)
 * [Getting Started with p5.js](http://amzn.to/1PmztVt) - O'Reilly book
 * [Intro to Visual Programming with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js) - online video tutorials (free with signup)
-- There are [many additional resources on the Resources wiki page](https://github.com/ITPNYU/ICM-2016/wiki/Resources).
+- There are [many additional resources on the Resources wiki page](https://github.com/ITPNYU/ICM-2017/wiki/Resources).
 
 ## Syllabus
 
@@ -57,7 +57,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
   * What is programming?
   * How can I apply programming to _____________?
   * As a ____________, why would I want or need to write software?
-  * [Example projects](https://github.com/ITPNYU/ICM-2016/wiki/Inspiration).
+  * [Example projects](https://github.com/ITPNYU/ICM-2017/wiki/Inspiration).
 * Programming language discussion
   * General discussion of programming languages
   * History of creative coding frameworks
