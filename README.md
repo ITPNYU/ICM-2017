@@ -12,7 +12,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 ## Homework Wikis
 - Allison, Monday, 6:30-9:00: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Monday)
 - Allison, Wednesday, ????????: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Wednesday)
-- Dano, Wednesday, ????????: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Dano-Wednesday)
+- Dano, Wednesday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Dano-Wednesday)
 - Mimi, Tuesday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Mimi-Tuesday)
 - Shawn, Wednesday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shawn-Wednesday)
 - Shiffman, Wednesday, 9:00-11:30: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shiffman-Wednesday-1)
