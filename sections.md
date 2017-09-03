@@ -18,7 +18,7 @@
   * [Office hours](https://itp.nyu.edu/inwiki/Signup/Shawn)
   * [Email: Shawn.Van.Every@nyu.edu](mailto:Shawn.Van.Every@nyu.edu)
 * Dano
-  * [Wednesday, 3:20-5:50 Homeword](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Dano-Wednesday)  
+  * [Wednesday, 3:20-5:50 Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Dano-Wednesday)  
   - [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UVBlTFZhOVNCTmF0fGRlZmF1bHR8MmU2NTM4NjJmOTJiNTUwM2M0YTBmMzcyZDM4NjRkNmQ)
   - Email: dan.osullivan@nyu.edu
 
