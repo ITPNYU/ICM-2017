@@ -14,7 +14,7 @@
   * [Office Hours Signup](https://calendar.google.com/calendar/selfsched?sstoken=UVBPem9ZRFh0NmxvfGRlZmF1bHR8MmNjMGMxNmNiMDNjN2ZmNWQwMmJhMDg3ZTQ3Y2ZmNWI)
   * E-mail: aparrish@nyu.edu
 * Shawn
-  * [Wednesday, ???????? Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shawn-Wednesday)
+  * [Wednesday, 12:10-2:40 Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shawn-Wednesday)
   * [Office hours](https://itp.nyu.edu/inwiki/Signup/Shawn)
   * [Email: Shawn.Van.Every@nyu.edu](mailto:Shawn.Van.Every@nyu.edu)
 * Dano
