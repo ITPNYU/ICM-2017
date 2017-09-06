@@ -24,7 +24,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - [Shiffman YouTube playlist](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14). The videos on YouTube display skippable ads.  If you would like downloadable, non-ad versions of the videos, please contact Dan.
 
 ## Books
-- [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt) is probably your best bet for now if you are looking for a book.
+- [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt) is probably your best bet for now if you are looking for a book. [Free through NYU library](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728)
 - If you are interested in some supplemental reading on HTML and CSS, The [HTML & CSS book](http://www.htmlandcssbook.com/) is a nice one.
 
 ## Example Code
