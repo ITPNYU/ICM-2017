@@ -45,7 +45,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 ## Resources
 - [p5.js reference](http://p5js.org/reference)
 - [p5.js forum](http://forum.processing.org/two/)
-- [p5.js tutorials](http://p5js.org/tutorials/)
+- [p5.js tutorials](https://p5js.org/learn/)
 - [Getting Started with p5.js](http://amzn.to/1PmztVt) - O'Reilly book
 - [Intro to Visual Programming with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js) - online video tutorials (free with signup)
 - There are [many additional resources on the Resources wiki page](https://github.com/ITPNYU/ICM-2017/wiki/Resources).
