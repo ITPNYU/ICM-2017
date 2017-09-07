@@ -1,5 +1,24 @@
 # ICM-2017
 Syllabus for ITP Foundation Course Introduction to Computational Media
+
+Summary
+### 1 -- Introduction and Drawing
+### 2 -- Animation Variables
+### 3 -- Interaction If Statements, Repeat Loops
+### 4 -- Functions: the basics
+### 5 -- Objects and Arrays
+### 6 -- Serial and DOM: events and callback function
+### 7 -- Data
+### 8 -- Video and Sound
+### 9 -- Extra Synthesis Workshop -- All sections meet Friday, October 27, 11am-2pm!
+### 10 -- Mobile
+### 11 -- Other Topics + Final Project Proposals
+### 12 -- Beyond p5.js + Final Project Proposals
+### 13 -- One on one speed user testing / feedback
+### 14 -- Final Project Presentations
+
+
+
 ## Listserv
 - [Sign up for the ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm/)
 
