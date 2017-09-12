@@ -9,7 +9,7 @@
   * [Shiffman office hours](https://itp.nyu.edu/inwiki/Signup/Shiffman)
   - Email: daniel.shiffman@nyu.edu
 * Allison
-  * [Wednesday, ???????? Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Wednesday)  
+  * [Wednesday, 12:10–2:40 Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Wednesday)  
   * [Monday, 6:30-9:00 Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Monday)  
   * [Office Hours Signup](https://calendar.google.com/calendar/selfsched?sstoken=UVBPem9ZRFh0NmxvfGRlZmF1bHR8MmNjMGMxNmNiMDNjN2ZmNWQwMmJhMDg3ZTQ3Y2ZmNWI)
   * E-mail: aparrish@nyu.edu
