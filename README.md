@@ -105,7 +105,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
   * [FORM+CODE: Introduction and What is Code?](http://formandcode.com)
   * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
   * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
- *Very extra painting links
+ * Very extra painting links
   * [For more about color](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
   * [For more about shapes (specifically "custom shapes" with vertices and bezier curves)](https://programmingdesignsystems.com/shape/custom-shapes/index.html#custom-shapes-pANLh0l)
   * [p5 playground (by Yining)](http://yining1023.github.io/p5PlayGround/)
