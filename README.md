@@ -224,6 +224,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - JSON and APIs (and more on callbacks!)
 - [Word Counting](http://shiffman.net/a2z/text-analysis/)
 - Tabular data
+- Maps, see: [Mappa](https://github.com/cvalenzuela/Mappa)
 - Additional Reading:
   - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp
   - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
