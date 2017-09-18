@@ -32,7 +32,7 @@ Bolded are classes that differ from normal ITP weekly schedule.
 1. September 11
 2. September 18
 3. September 25
-4. October 2
+4. October 2 (NOTE: Allison's section cancelled on this date! We will meet Saturday, October 7th 2017 at 3:00pm instead.)
 5. October 16
 6. October 23
 7. ```Friday, Oct 27 -- Pizza!```
@@ -65,7 +65,7 @@ Bolded are classes that differ from normal ITP weekly schedule.
 2. September 13
 3. September 20
 4. September 27
-5. October 4
+5. October 4 (NOTE: Allison's section cancelled on this date! We will meet Friday, October 13th 2017 at 12:10pm instead.)
 6. October 11
 7. October 18
 8. October 25
