@@ -123,6 +123,9 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - [map()](http://p5js.org/reference/#/p5/map), [video tutorial](https://www.youtube.com/watch?v=nicMAoW6u1g&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8)
 - Transformations
    - `translate()`, `rotate()`, `scale()`, `push()`, `pop()`
+   - [translate, rotate, push, pop video tutoral](https://youtu.be/o9sgjuh-CBM)
+   - [scale video tutorial](https://youtu.be/pkHZTWOoTLM)
+   - [more on technical details](https://youtu.be/IVMvq9rd8dA)
 - Examples
   - [random painting](https://alpha.editor.p5js.org/projects/HJg8jfcT3)
   - [mouse controlled painting](https://alpha.editor.p5js.org/projects/r1JeQqa3)
