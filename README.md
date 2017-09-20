@@ -60,6 +60,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 
 ## Inspirational Projects
 - [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2017/wiki/Inspiration)
+- Adding something from Wed afternoon class onto this file
 
 ## Resources
 - [p5.js reference](http://p5js.org/reference)
