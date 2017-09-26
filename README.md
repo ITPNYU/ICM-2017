@@ -172,13 +172,12 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
    - [implementing distance function example](https://alpha.editor.p5js.org/projects/HJgR7UcKa)
 - Recursion
    - [recursion](https://alpha.editor.p5js.org/projects/Hyevi8ct6)
-- Functions inside objects: [video](https://www.youtube.com/watch?v=QoFWCPVpWUE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=19)
-   - [bouncing ball object literal](https://alpha.editor.p5js.org/projects/HJlPnv9Ka)
-   - [bouncing ball constructor function](https://alpha.editor.p5js.org/projects/r15xwqt6)
+- Videos about functions inside objects coming soon!
 - Optional Readings:
   - [Work of Art in the Age of Mechanical Reproduction](http://www.berk-edu.com/VisualStudies/readingList/06b_benjamin-work%20of%20art%20in%20the%20age%20of%20mechanical%20reproduction.pdf), Walter Benjamin
 
 ### 5 -- Objects and Arrays
+* **In progress, new videos coming! Below are the old videos**
 * Review object literals:
   * properties - name/value pairs
   * functions inside objects
