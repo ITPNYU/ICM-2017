@@ -9,16 +9,16 @@
   * [Shiffman office hours](https://itp.nyu.edu/inwiki/Signup/Shiffman)
   - Email: daniel.shiffman@nyu.edu
 * Allison
-  * [Wednesday, ???????? Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Wednesday)  
+  * [Wednesday, 12:10–2:40 Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Wednesday)  
   * [Monday, 6:30-9:00 Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Monday)  
   * [Office Hours Signup](https://calendar.google.com/calendar/selfsched?sstoken=UVBPem9ZRFh0NmxvfGRlZmF1bHR8MmNjMGMxNmNiMDNjN2ZmNWQwMmJhMDg3ZTQ3Y2ZmNWI)
   * E-mail: aparrish@nyu.edu
 * Shawn
-  * [Wednesday, ???????? Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shawn-Wednesday)
+  * [Wednesday, 12:10-2:40 Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shawn-Wednesday)
   * [Office hours](https://itp.nyu.edu/inwiki/Signup/Shawn)
   * [Email: Shawn.Van.Every@nyu.edu](mailto:Shawn.Van.Every@nyu.edu)
 * Dano
-  * [Wednesday, ???????? Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Dano-Wednesday)  
+  * [Wednesday, 3:20-5:50 Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Dano-Wednesday)  
   - [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UVBlTFZhOVNCTmF0fGRlZmF1bHR8MmU2NTM4NjJmOTJiNTUwM2M0YTBmMzcyZDM4NjRkNmQ)
   - Email: dan.osullivan@nyu.edu
 
@@ -32,10 +32,10 @@ Bolded are classes that differ from normal ITP weekly schedule.
 1. September 11
 2. September 18
 3. September 25
-4. October 2
+4. October 2 (NOTE: Allison's section cancelled on this date! We will meet Saturday, October 7th 2017 at 3:00pm instead.)
 5. October 16
 6. October 23
-7. ```Friday, Oct 27 -- Pizza!```
+7. ***Friday, Oct 27 11am-2pm -- Pizza!***
 8. October 30
 9. November 6
 10. November 13
@@ -53,7 +53,7 @@ Bolded are classes that differ from normal ITP weekly schedule.
 6. October 10
 7. October 17
 8. October 24
-9. ```Friday, Oct 27 -- Pizza!```
+7. ***Friday, Oct 27 11am-2pm -- Pizza!***
 10. October 31
 11. November 7
 12. November 14
@@ -65,11 +65,11 @@ Bolded are classes that differ from normal ITP weekly schedule.
 2. September 13
 3. September 20
 4. September 27
-5. October 4
+5. October 4 (NOTE: Allison's section cancelled on this date! We will meet Friday, October 13th 2017 at 12:10pm instead.)
 6. October 11
 7. October 18
 8. October 25
-9. ```Friday, Oct 27 -- Pizza!```
+7. ***Friday, Oct 27 11am-2pm -- Pizza!***
 10. November 1
 11. November 8
 12. November 15

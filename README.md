@@ -1,5 +1,24 @@
 # ICM-2017
 Syllabus for ITP Foundation Course Introduction to Computational Media
+
+### Summary
+* 1 -- Introduction and Drawing
+* 2 -- Animation Variables
+* 3 -- Interaction If Statements, Repeat Loops
+* 4 -- Functions: the basics
+* 5 -- Objects and Arrays
+* 6 -- Serial and DOM: events and callback function
+* 7 -- Data
+* 8 -- Video and Sound
+* 9 -- Extra Synthesis Workshop -- All sections meet Friday, October 27, 11am-2pm!
+* 10 -- Mobile
+* 11 -- Other Topics + Final Project Proposals
+* 12 -- Beyond p5.js + Final Project Proposals
+* 13 -- One on one speed user testing / feedback
+* 14 -- Final Project Presentations
+
+
+
 ## Listserv
 - [Sign up for the ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm/)
 
@@ -11,10 +30,10 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 
 ## Homework Wikis
 - Allison, Monday, 6:30-9:00: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Monday)
-- Allison, Wednesday, ????????: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Wednesday)
-- Dano, Wednesday, ????????: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Dano-Wednesday)
+- Allison, Wednesday, 12:10–2:40: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Allison-Wednesday)
+- Dano, Wednesday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Dano-Wednesday)
 - Mimi, Tuesday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Mimi-Tuesday)
-- Shawn, Wednesday, ????????: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shawn-Wednesday)
+- Shawn, Wednesday, 12:10-2:40: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shawn-Wednesday)
 - Shiffman, Wednesday, 9:00-11:30: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shiffman-Wednesday-1)
 - Shiffman, Wednesday, 3:20-5:50: [Homework](https://github.com/ITPNYU/ICM-2017/wiki/Homework-Shiffman-Wednesday-2)
 
@@ -24,7 +43,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - [Shiffman YouTube playlist](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14). The videos on YouTube display skippable ads.  If you would like downloadable, non-ad versions of the videos, please contact Dan.
 
 ## Books
-- [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt) is probably your best bet for now if you are looking for a book.
+- [Make: Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/1PmztVt) is probably your best bet for now if you are looking for a book. [Free through NYU library](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728)
 - If you are interested in some supplemental reading on HTML and CSS, The [HTML & CSS book](http://www.htmlandcssbook.com/) is a nice one.
 
 ## Example Code
@@ -36,8 +55,8 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - [Research Resident Office Hours](http://itp.nyu.edu/residents/contact-the-residents/)
 - [Cassie Office Hours](https://github.com/ITPNYU/ICM-2017/wiki/Cassie-Office-Hours) -- (Cassie is the lead developer of the p5.js web editor so bring your bugs and questions about that!)
 - ICM Help Sessions:
-- Wednesdays 4-6pm in Room 15 w/ Craig & Kat
-- Fridays 1:30-2:30pm in Room 20 w/ Cici & Yining
+- Tuesdays,  6:45pm - 8:45pm, Meeting Room, with residents Mathura & Leon
+- Fridays 1:00pm - 2:30pm, Room 20, with residents Lisa & Aarón
 
 ## Inspirational Projects
 - [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2017/wiki/Inspiration)
@@ -45,7 +64,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 ## Resources
 - [p5.js reference](http://p5js.org/reference)
 - [p5.js forum](http://forum.processing.org/two/)
-- [p5.js tutorials](http://p5js.org/tutorials/)
+- [p5.js tutorials](https://p5js.org/learn/)
 - [Getting Started with p5.js](http://amzn.to/1PmztVt) - O'Reilly book
 - [Intro to Visual Programming with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js) - online video tutorials (free with signup)
 - There are [many additional resources on the Resources wiki page](https://github.com/ITPNYU/ICM-2017/wiki/Resources).
@@ -86,6 +105,11 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
   * [FORM+CODE: Introduction and What is Code?](http://formandcode.com)
   * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
   * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee
+* Very extra painting links
+  * [For more about color](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
+  * [For more about shapes (specifically "custom shapes" with vertices and bezier curves)](https://programmingdesignsystems.com/shape/custom-shapes/index.html#custom-shapes-pANLh0l)
+  * [p5 playground (by Yining)](http://yining1023.github.io/p5PlayGround/)
+
 
 ### 2 -- Animation
 - Program flow (what's a function?)
@@ -99,6 +123,9 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - [map()](http://p5js.org/reference/#/p5/map), [video tutorial](https://www.youtube.com/watch?v=nicMAoW6u1g&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8)
 - Transformations
    - `translate()`, `rotate()`, `scale()`, `push()`, `pop()`
+   - [translate, rotate, push, pop video tutoral](https://youtu.be/o9sgjuh-CBM)
+   - [scale video tutorial](https://youtu.be/pkHZTWOoTLM)
+   - [more on technical details](https://youtu.be/IVMvq9rd8dA)
 - Examples
   - [random painting](https://alpha.editor.p5js.org/projects/HJg8jfcT3)
   - [mouse controlled painting](https://alpha.editor.p5js.org/projects/r1JeQqa3)
@@ -146,9 +173,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - Recursion
    - [video tutorial](link coming soon -- remind me somebody!)
    - [recursion](https://alpha.editor.p5js.org/projects/Hyevi8ct6)
-- Functions inside objects: [video](https://www.youtube.com/watch?v=QoFWCPVpWUE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=19)
-   - [bouncing ball object literal](https://alpha.editor.p5js.org/projects/HJlPnv9Ka)
-   - [bouncing ball constructor function](https://alpha.editor.p5js.org/projects/r15xwqt6)
+- Videos about functions inside objects coming soon!
 - Optional Readings:
   - [Work of Art in the Age of Mechanical Reproduction](http://www.berk-edu.com/VisualStudies/readingList/06b_benjamin-work%20of%20art%20in%20the%20age%20of%20mechanical%20reproduction.pdf), Walter Benjamin
 
@@ -203,6 +228,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - JSON and APIs (and more on callbacks!)
 - [Word Counting](http://shiffman.net/a2z/text-analysis/)
 - Tabular data
+- Maps, see: [Mappa](https://github.com/cvalenzuela/Mappa)
 - Additional Reading:
   - [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api), Jer Thorp
   - [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/), Kate Crawford
