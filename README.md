@@ -144,6 +144,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - Return types: [video](https://www.youtube.com/watch?v=qRnUBiTJ66Y&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=18)
    - [implementing distance function example](https://alpha.editor.p5js.org/projects/HJgR7UcKa)
 - Recursion
+   - [video tutorial](link coming soon -- remind me somebody!)
    - [recursion](https://alpha.editor.p5js.org/projects/Hyevi8ct6)
 - Functions inside objects: [video](https://www.youtube.com/watch?v=QoFWCPVpWUE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=19)
    - [bouncing ball object literal](https://alpha.editor.p5js.org/projects/HJlPnv9Ka)
@@ -152,12 +153,14 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
   - [Work of Art in the Age of Mechanical Reproduction](http://www.berk-edu.com/VisualStudies/readingList/06b_benjamin-work%20of%20art%20in%20the%20age%20of%20mechanical%20reproduction.pdf), Walter Benjamin
 
 ### 5 -- Objects and Arrays
-* Review object literals:
-  * properties - name/value pairs
-  * functions inside objects
-  * `this` keyword
-* Constructor function! [video tutorial 6.4](https://www.youtube.com/watch?v=F3GeM_KrGjI&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=23)
-  * [Two Gravity Ball Objects](http://alpha.editor.p5js.org/projects/SyNeazcR)
+* Object-Oriented Programming with Classes in JavaScript
+    - [Mozilla Classes reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+    - [Mozilla Classes tutorial](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+    - [OOP with p5.js tutorial](https://shiffman.github.io/Learning-p5.js/ch08.html)
+    - [Video tutorial archive Part 1](https://www.youtube.com/watch?v=-RvrDZd1xVw&t=2238s) -- edited video coming soon
+    - [Video tutorial archive Part 2](https://www.youtube.com/watch?v=-RvrDZd1xVw&t=3009s) -- edited video coming soon
+    - [Video tutorial archive Part 3](https://www.youtube.com/watch?v=-RvrDZd1xVw&t=4320s) -- edited video coming soon
+    - [Two Gravity Ball Objects Example](http://alpha.editor.p5js.org/icm/sketches/BkyUQp1nb)
 * What is an array? [video tutorial 6.1](https://www.youtube.com/watch?v=VIQoUghHSxU&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=20)
   * declaring, initializing
   * numeric indices
@@ -165,16 +168,16 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
   * arrays and for loops: [video tutorial 6.2](https://www.youtube.com/watch?v=RXWO3mFuW-I&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=21)
   * `length` property
 * An array of objects! [video tutorial 6.3](https://www.youtube.com/watch?v=pGkSHeEZLMU&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=22)
-  * [Interactive Stripes](http://alpha.editor.p5js.org/projects/SJRI1mqC)
+  * [Interactive Stripes](http://alpha.editor.p5js.org/icm/sketches/B1ja76khW)
 * Adding and deleting from an array, `push()` and `splice()` [video tutorial. 6.5](https://www.youtube.com/watch?v=EyG_2AdHlzY&index=24&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-  * [MousePressed Adding New Gravity Ball Objects](http://alpha.editor.p5js.org/projects/SJysg7c0)
+  * [MousePressed Adding New Gravity Ball Objects](http://alpha.editor.p5js.org/icm/sketches/B1ja76khW)
 * Multiple JS files [video tutorial 6.6](https://www.youtube.com/watch?v=Yk18ZKvXBj4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=25)
 * Clicking on objects [video tutorial 6.7](https://www.youtube.com/watch?v=DEHsr4XicN8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=26)
-  * [An Array of Buttons](http://alpha.editor.p5js.org/projects/ByLFGX5R)
+  * [An Array of Buttons](http://alpha.editor.p5js.org/icm/sketches/BkaTNak3Z)
 * Checking objects intersecting with other objects [video tutorial 6.9](https://www.youtube.com/watch?v=uAfw-ko3kB8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=28), [video tutorial 6.10](https://www.youtube.com/watch?v=GY-c2HO2liA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=29)
-   * [Checking Objects Intersection](http://alpha.editor.p5js.org/projects/BJEYSU90)
+   * [Checking Objects Intersection]http://alpha.editor.p5js.org/icm/sketches/S1BbBT13b)
 * loading images for objects [video tutorial 6.11](https://www.youtube.com/watch?v=FVYGyaxG4To&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=30)
-  * [MousePressed Adding New Images](http://alpha.editor.p5js.org/projects/HJvzCr90)
+  * [MousePressed Adding New Images](http://alpha.editor.p5js.org/icm/sketches/SJzKEak3W)
 * [Optional quiz to test your knowledge](https://itpnyu.github.io/ICM-Quizzes/week5-objects-arrays/)
 
 
