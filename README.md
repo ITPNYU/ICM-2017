@@ -179,7 +179,6 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 ### 5 -- Objects and Arrays
 * Object-Oriented Programming with Classes in JavaScript
     - [Mozilla Classes reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
-    - [Mozilla Classes tutorial](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
     - [OOP with p5.js tutorial](https://shiffman.github.io/Learning-p5.js/ch08.html)
     - [Video tutorial archive Part 1](https://www.youtube.com/watch?v=-RvrDZd1xVw&t=2238s) -- edited video coming soon
     - [Video tutorial archive Part 2](https://www.youtube.com/watch?v=-RvrDZd1xVw&t=3009s) -- edited video coming soon
