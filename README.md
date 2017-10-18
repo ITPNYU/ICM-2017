@@ -176,13 +176,6 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 - Optional Readings:
   - [Work of Art in the Age of Mechanical Reproduction](http://www.berk-edu.com/VisualStudies/readingList/06b_benjamin-work%20of%20art%20in%20the%20age%20of%20mechanical%20reproduction.pdf), Walter Benjamin
 
-* Object Video tutorials:
-* Array Video tutorials:
-    * [What is an array?](https://www.youtube.com/watch?v=VIQoUghHSxU)
-    * [Arrays and loops](https://www.youtube.com/watch?v=RXWO3mFuW-I)
-    * More videos about arrays coming soon. . .
-* [Learning Processing Chapter 8 on Objects translated to p5](https://shiffman.github.io/Learning-p5.js/ch08.html)
-
 ### 5 -- Objects and Arrays
 * Object-Oriented Programming with Classes in JavaScript
     - [Mozilla Classes reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
@@ -190,25 +183,21 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
     - Video: [6.1 Intro to ES6 OOP](https://www.youtube.com/watch?v=xG2Vbnv0wvg)
     - Video: [6.2 Writing a Class](https://www.youtube.com/watch?v=T-HGdc8L-7w)
     - Video: [6.3 Constructor Arguments](https://www.youtube.com/watch?v=rHiSsgFRgx4)
-    - More videos about objects coming soon. . .
     - [Two Gravity Ball Objects Example](http://alpha.editor.p5js.org/icm/sketches/BkyUQp1nb)
-* What is an array? [video tutorial 7.1](https://www.youtube.com/watch?v=VIQoUghHSxU&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=20)
-  * declaring, initializing
-  * numeric indices
-  * [A Snake Following the Mouse](http://alpha.editor.p5js.org/projects/Sy1ECGcA)
-  * arrays and for loops: [video tutorial 7.2](https://www.youtube.com/watch?v=RXWO3mFuW-I&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=21)
-  * `length` property
-* An array of objects! [video tutorial 7.3](https://www.youtube.com/watch?v=fBqaA7zRO58)
-)
-  * [Interactive Stripes](http://alpha.editor.p5js.org/icm/sketches/B1ja76khW)
-* Adding and deleting from an array, `push()` and `splice()` Old video, no classes! [video tutorial](https://www.youtube.com/watch?v=EyG_2AdHlzY&index=24&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-  * [MousePressed Adding New Gravity Ball Objects](http://alpha.editor.p5js.org/icm/sketches/B1ja76khW)
-* Clicking on objects Old video, no classes! [video tutorial](https://www.youtube.com/watch?v=DEHsr4XicN8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=26)
-  * [An Array of Buttons](http://alpha.editor.p5js.org/icm/sketches/BkaTNak3Z)
-* Checking objects intersecting with other objects Old video, no classes! [video tutorial](https://www.youtube.com/watch?v=uAfw-ko3kB8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=28), Old video, no classes!  [video tutorial](https://www.youtube.com/watch?v=GY-c2HO2liA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=29)
-   * [Checking Objects Intersection]http://alpha.editor.p5js.org/icm/sketches/S1BbBT13b)
-* loading images for objects Old video, no classes! [video tutorial 6.11](https://www.youtube.com/watch?v=FVYGyaxG4To&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=30)
-  * [MousePressed Adding New Images](http://alpha.editor.p5js.org/icm/sketches/SJzKEak3W)
+* [Learning Processing Chapter 8 on Objects translated to p5](https://shiffman.github.io/Learning-p5.js/ch08.html)
+* Arrays
+    - [7.1 What is an array?](https://www.youtube.com/watch?v=VIQoUghHSxU)
+    - [7.2 Arrays and loops](https://www.youtube.com/watch?v=RXWO3mFuW-I)
+    - [7.3 Arrays of objects](https://www.youtube.com/watch?v=fBqaA7zRO58)
+    - [7.4 Mouse interaction with objects](https://www.youtube.com/watch?v=TaN5At5RWH8)
+    - [7.5 Removing objects from arrays](https://www.youtube.com/watch?v=tA_ZgruFF9k)
+    * [A Snake Following the Mouse](http://alpha.editor.p5js.org/projects/Sy1ECGcA)
+    * [Interactive Stripes](http://alpha.editor.p5js.org/icm/sketches/B1ja76khW)
+    * [An Array of Buttons](http://alpha.editor.p5js.org/icm/sketches/BkaTNak3Z)
+    * Checking objects intersecting with other objects Old video, no classes! [video tutorial](https://www.youtube.com/watch?v=uAfw-ko3kB8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=28), Old video, no classes!  [video tutorial](https://www.youtube.com/watch?v=GY-c2HO2liA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=29)
+    * [Checking Objects Intersection]http://alpha.editor.p5js.org/icm/sketches/S1BbBT13b)
+    * loading images for objects Old video, no classes! [video tutorial 6.11](https://www.youtube.com/watch?v=FVYGyaxG4To&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=30)
+    * [MousePressed Adding New Images](http://alpha.editor.p5js.org/icm/sketches/SJzKEak3W)
 * [Optional quiz to test your knowledge](https://itpnyu.github.io/ICM-Quizzes/week5-objects-arrays/)
 
 
