@@ -267,7 +267,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
   - [Pinch and rotate](http://alpha.editor.p5js.org/projects/SJpBDW_gg)
 - Remote debugging:
   - [Android remote debugging](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/?hl=en)
-  - [iOS remote debugging](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)
+  - [iOS remote debugging](https://appletoolbox.com/2014/05/use-web-inspector-debug-mobile-safari/)
   - [Generic remote debugging](https://jsconsole.com/)
 - [Using the viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
 - Homework: Prepare a final project proposal.  See you section's wiki.
