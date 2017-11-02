@@ -270,7 +270,10 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
   - [iOS remote debugging](https://appletoolbox.com/2014/05/use-web-inspector-debug-mobile-safari/)
   - [Generic remote debugging](https://jsconsole.com/)
 - [Using the viewport meta tag to control layout on mobile browsers](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
+  - [p5 Events Reference](https://p5js.org/reference/#group-Events)
+  - [Mobile Examples](https://github.com/ITPNYU/ICM-2017#10----mobile)
 - Homework: Prepare a final project proposal.  See you section's wiki.
+
 
 ### 11 -- Other Topics + Final Project Proposals
 - **See your individual section's proposal schedule on your wiki**
