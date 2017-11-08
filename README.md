@@ -278,10 +278,13 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 ### 11 -- Other Topics + Final Project Proposals
 - **See your individual section's proposal schedule on your wiki**
 - Possible topics
+   - WebGL - [tutorial](https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5)
+     - [Kate GSoC Work](http://www.katehollenbach.com/gsoc-2017/)
+     - [Stalgia GSoC Work](https://mlarghydracept.github.io/GSOC17/)
+   - setTimeout, setInterval
+   - more about ES6?
    - more on pixels
    - more on data
-   - setTimeout, setInterval
-   - WebGL - [tutorial](https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5)
 
 ### 12 -- Beyond p5.js + Final Project Proposals
 - **See your individual section's proposal schedule on your wiki**
